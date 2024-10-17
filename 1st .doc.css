@@ -1,0 +1,116 @@
+
+.nav-bar{
+    display: flex;
+}
+.tags{
+    margin-left: 10px;
+}
+.img{
+    position: relative;
+}
+.text{
+    top: 250px;
+    left: 100px;
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    text-decoration: none;
+}
+.text a{
+    text-decoration: none;
+}
+.container{
+    background-color: whitesmoke;
+}
+.container a{
+    text-decoration: none;
+}
+.parent{
+    display: flex;
+    width: 100%;
+}
+.child1{
+    margin-left: 50px;
+}
+.child2{
+    margin-left: 20px;
+}
+.child3{
+    margin-right: 20px;
+}
+.container1{
+    background-color: lightgoldenrodyellow;
+}
+.container1 a{
+    text-decoration: none;
+}
+.parent1{
+    display: flex;
+    width: 100%;
+}
+.child4{
+    margin-left: 55px;
+}
+.child5{
+    margin-right: 50px;
+    padding-left: 40px;
+}
+.child6{
+    margin-right: 70px;
+}
+.container2{
+    background-color: lightgray;
+}
+.container2 a{
+    text-decoration: none;
+}
+.child7{
+    margin-left: 380px;
+}
+.container3{
+    background-color:lightgoldenrodyellow;
+}
+.container3 a{
+    text-decoration: none;
+}
+.child8{
+    margin-left: 380px;
+}
+.container4{
+    background-color: lightgray;
+}
+.container4 a{
+    text-decoration: none;
+}
+.child9{
+    margin-left: 380px;
+}
+.container5{
+    background-color: whitesmoke;
+}
+.container5 a{
+    text-decoration: none;
+}
+.child10{
+    margin-left: 380px;
+}
+.container6{
+    background-color: whitesmoke;
+}
+.container6 a{
+    text-decoration: none;
+}
+.child11{
+    display: flex;
+}
+.data{
+    font-size: x-large;
+}
+.footer{
+    width: auto;
+    height: 100px;
+    background-color: lightgoldenrodyellow;
+}
+.container7{
+    background-color: whitesmoke;
+}
